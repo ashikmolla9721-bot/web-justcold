@@ -51,7 +51,7 @@ workflows:
     publishing:
       email:
         recipients:
-          - ashikmolla9721@gmail.com
+          - ashikbd9421@gmail.com
         notify:
           success: true
           failure: true

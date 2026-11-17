@@ -1,7 +1,8 @@
-# Just Cold Shop - Android WebView App (SDK 34 Ready)
+# Just Cold Shop - Android WebView App (Final & Ready)
 
-এই প্রজেক্টটি **Just Cold Shop** (https://justcoldshop.com) ই-কমার্স ওয়েবসাইটের জন্য সম্পূর্ণ আপডেট করা Flutter WebView প্রজেক্ট। এতে লেটেস্ট অ্যান্ড্রয়েড SDK 34 এবং `connectivity_plus` ও `webview_flutter`-এর লেটেস্ট ভার্সন কনফিগার করা আছে, যাতে কোডম্যাজিকে কোনো SDK কম্প্যাটিবিলিটি এরর না আসে।
+এই প্রজেক্টটি **Just Cold Shop** (https://justcoldshop.com) ওয়েবসাইটের জন্য সম্পূর্ণ রেডি করা ফ্লাটার প্রজেক্ট। এতে লেটেস্ট SDK 34, Android v2 Embedding, এবং WebView কনফিগারেশন করা আছে।
 
-## ব্যবহারের নিয়ম:
-1. রিপোজিটরিতে সমস্ত ফাইল আপলোড করুন।
-2. Codemagic থেকে বিল্ড রান করুন। সফল বিল্ড শেষে `JustColdShop.apk` ফাইলটি পেয়ে যাবেন।
+## আপলোড ও বিল্ড নির্দেশিকা:
+1. এই প্রজেক্টের সমস্ত ফাইল আপনার নতুন গিটহাব রিপোজিটরির রুট ফোল্ডারে আপলোড করুন।
+2. কোডম্যাজিক (Codemagic) থেকে বিল্ড রান করুন। 
+3. সফল বিল্ড শেষে `JustColdShop.apk` ফাইলটি আর্টফ্যাক্টস থেকে ডাউনলোড করতে পারবেন।
